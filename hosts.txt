@@ -19,6 +19,11 @@ traveloclicks.com
 
 
 
+#TORRENTS
+bittorrent.com
+www.bittorrent.com
+
+
 #From hectorm
 
 1.fembed.com
