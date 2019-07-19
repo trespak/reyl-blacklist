@@ -6,6 +6,7 @@
 7fkm2r4pzi.com/18/d2/53/18d253eddccb8325f282d4281729e71f.js
 lasimakiz.xyz
 lasimakiz.xyz/sadig6.js
+cdn.onesignal.com/sdks/OneSignalSDK.js
 ws1.server
 ws2.server
 ws3.server
