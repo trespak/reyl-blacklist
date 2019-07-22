@@ -1,9 +1,14 @@
 
-#Updated 07-19-2019
-
+#Updated 07-22-2019
 #Bad URLs by ReyL
 
+www.cxxhkmuxdjsmw.com
 cxxhkmuxdjsmw.com
+www.cxxhkmuxdjsmw.com/wpuf.js
+cxxhkmuxdjsmw.com/wpuf.js
+cxxhkmuxdjsmw.com/kHgjx.html
+cxxhkmuxdjsmw.com/kHgjx.html?_=e1&v=4&MtmWIJHk=3403465&xFsQhLCS=&QIzSompD=&porFXKwM=&EzZIyjvA=&s=1366,768,1,1366,768
+
 kt5850pjz0.com
 7fkm2r4pzi.com
 .7fkm2r4pzi.com
@@ -11,6 +16,8 @@ kt5850pjz0.com
 lasimakiz.xyz
 .lasimakiz.xyz
 lasimakiz.xyz/sadig6.js
+.lasimakiz.xyz/sadig6.js
+lasimakiz.xyz:8282
 cdn.onesignal.com/sdks/OneSignalSDK.js
 ws1.server
 ws2.server
@@ -21,9 +28,20 @@ cvupqfim.com
 cvupqfim.com/FOx.php
 shoppinglifestyle.biz
 traveloclicks.com
+sonumal.com
+.sonumal.com
+.notifications.website
+notifications.website
+popads.net
+www.popads.net
+
+
 
 #MINERS
 moonbit.co.in/js/coinhive.min.js
+masari.miner.rocks
+.miner.rocks
+
 
 
 #TORRENTS
