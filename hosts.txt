@@ -2,9 +2,13 @@
 #Updated 07-19-2019
 
 #Bad URLs by ReyL
+
+kt5850pjz0.com
 7fkm2r4pzi.com
+.7fkm2r4pzi.com
 7fkm2r4pzi.com/18/d2/53/18d253eddccb8325f282d4281729e71f.js
 lasimakiz.xyz
+.lasimakiz.xyz
 lasimakiz.xyz/sadig6.js
 cdn.onesignal.com/sdks/OneSignalSDK.js
 ws1.server
@@ -17,6 +21,8 @@ cvupqfim.com/FOx.php
 shoppinglifestyle.biz
 traveloclicks.com
 
+#MINERS
+moonbit.co.in/js/coinhive.min.js
 
 
 #TORRENTS
