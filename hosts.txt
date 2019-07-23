@@ -40,6 +40,9 @@ moonbit.co.in/js/coinhive.min.js
 masari.miner.rocks
 .miner.rocks
 miner.rocks
+minerrocks.com
+krb.minerrocks.com
+krb.miner.rocks
 
 #TORRENTS
 bittorrent.com
