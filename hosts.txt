@@ -1,5 +1,5 @@
 
-#Updated 07-22-2019
+#Updated 07-23-2019
 #Bad URLs by ReyL
 
 www.cxxhkmuxdjsmw.com
@@ -34,22 +34,18 @@ notifications.website
 popads.net
 www.popads.net
 
-
-
 #MINERS
+moonbit.co.in
 moonbit.co.in/js/coinhive.min.js
 masari.miner.rocks
 .miner.rocks
-
-
+miner.rocks
 
 #TORRENTS
 bittorrent.com
 www.bittorrent.com
 
-
 #From hectorm
-
 1.fembed.com
 129ji7ymdw.com
 280asnlnr7.com
