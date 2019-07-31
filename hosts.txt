@@ -392,3 +392,16 @@ zoagremo.net
 zontent.powvideo.net
 zugnogne.com
 zuzodoad.com
+
+
+# Spam domains
+# If your software is able, the below domains and all subdomains should be blocked
+#*.angiemktg.com
+#*.weconfirmyou.com
+0.0.0.0 cws.conviva.com
+0.0.0.0 www.cws.conviva.com
+#*.cws.conviva.com
+0.0.0.0 vrl.m.conviva.com
+0.0.0.0 www.vrl.m.conviva.com
+0.0.0.0 zee.cws.conviva.com
+0.0.0.0 www.zee.cws.conviva.com
