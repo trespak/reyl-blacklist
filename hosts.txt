@@ -95,6 +95,19 @@ openproxy.space
 www.openproxy.space
 www.us-proxy.org
 us-proxy.org
+surfshark.com
+www.surfshark.com
+cyberghostvpn.com
+www.cyberghostvpn.com
+www.torproject.org
+torproject.org
+dal.net
+.dal.net
+www.dal.net
+unblocksite.org
+www.unblocksite.org
+www.unblockweb.co 
+unblockweb.co
 
 #TORRENTS
 bittorrent.com
