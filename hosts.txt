@@ -33,6 +33,22 @@ sonumal.com
 notifications.website
 popads.net
 www.popads.net
+300mbfilms.co
+www.300mbfilms.co
+300mbfilms.io
+www.300mbfilms.io
+www.pinoymovies.to
+pinoymovies.to
+www.mkvhub.com
+mkvhub.com
+archive.org
+www.archive.org
+www.mkvcinemas.eu
+mkvcinemas.eu
+mkvrips.com
+www.mkvrips.com
+mkvking.com
+www.mkvking.com
 
 #MINERS
 moonbit.co.in
@@ -43,6 +59,7 @@ miner.rocks
 minerrocks.com
 krb.minerrocks.com
 krb.miner.rocks
+
 
 #TORRENTS
 bittorrent.com
