@@ -2,6 +2,9 @@
 #Updated 07-23-2019
 #Bad URLs by ReyL
 
+dynsrvtbg.com
+.dynsrvtbg.com
+syndication.dynsrvtbg.com
 clk.ink
 clk.ink/VRDuR
 oko.sh
