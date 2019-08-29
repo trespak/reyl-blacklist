@@ -2,6 +2,15 @@
 #Updated 07-23-2019
 #Bad URLs by ReyL
 
+kerumal.com
+www.kerumal.com
+.kerumal.com
+fw.adsafeprotected.com
+static.adsafeprotected.com
+pixel.adsafeprotected.com
+adsafeprotected.com
+www.adsafeprotected.com
+.adsafeprotected.com
 analytics.ff.avast.com
 pixel.advertising.com
 analytics.ff.avast.com
