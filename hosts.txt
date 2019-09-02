@@ -2,6 +2,7 @@
 #Updated 07-23-2019
 #Bad URLs by ReyL
 
+glotorrents.pw/favicon.png
 gab.ag
 www.gab.ag
 wwnc.xyz
@@ -76,6 +77,10 @@ krb.miner.rocks
 
 #PROXY
 
+hidester.com
+whoer.net
+filterbypass.me
+www.filterbypass.me
 www.free-proxy.com
 www.proxysite.com
 proxysite.com
