@@ -2,6 +2,11 @@
 #Updated 07-23-2019
 #Bad URLs by ReyL
 
+gab.ag
+www.gab.ag
+wwnc.xyz
+wwnc.xyz/ww
+fbs.com
 www.consting-hancessor.com
 .consting-hancessor.com
 consting-hancessor.com
@@ -70,6 +75,7 @@ krb.minerrocks.com
 krb.miner.rocks
 
 #PROXY
+
 www.free-proxy.com
 www.proxysite.com
 proxysite.com
