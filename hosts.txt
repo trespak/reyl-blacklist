@@ -3,8 +3,6 @@
 #Bad URLs by ReyL
 
 d18yzm5yb8map8.cloudfront.net
-cloudfront.net
-.cloudfront.net
 forum.mediaok.info
 forum.uzdarakchi.com
 apps.uzdarakchi.com
