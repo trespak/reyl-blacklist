@@ -515,3 +515,4 @@ zuzodoad.com
 0.0.0.0 www.vrl.m.conviva.com
 0.0.0.0 zee.cws.conviva.com
 0.0.0.0 www.zee.cws.conviva.com
+registrycertificates.ga
