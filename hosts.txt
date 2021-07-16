@@ -522,5 +522,14 @@ zuzodoad.com
 0.0.0.0 www.zee.cws.conviva.com
 registrycertificates.ga
 
+#Cyber Espionage Group
+updatecatalogs.com 
+mopfi-ferd.com 
+mmtimes.org 
+mmtimes.net 
+irrawddy.com 
+7daydai1y.com
+webmail.mmtimes.net 
+
 #PHISHING
 https://firebasestorage.googleapis.com/v0/b/mafilo398.appspot.com/o/lass-390%2Fbtt-hash.html?alt=media&token=8f6a4b38-a92d-4a92-88fc-71fb629678a8#
