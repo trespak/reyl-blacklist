@@ -1,6 +1,14 @@
-#Updated 07-23-2019
+#Updated 10-03-2023
 #Bad URLs by ReyL
 
+turbo-mech.com
+ipfs.io
+ipfs.io/ipfs
+ipfs.io/ipfs/bafybeidcooplup5sdzzqte2agrpjbtt46qypo3efmzrsftrjntfxdrmfym/nePiopK0.html
+alongenvirons.com
+ipfs.io/ipfs/bafybeihouqh43ese7ehpupnbssizcpyhsaoifig3isjbdpxromn6zsfmiq
+twokubomb.club
+kza.biglobe.ne.jp
 filterthis.xyz
 linktr.ee
 messenger-2021.blogspot.com
