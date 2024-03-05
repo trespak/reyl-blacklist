@@ -1,6 +1,7 @@
-#Updated 02-20-2024
+#Updated 03-05-2024
 #Bad URLs by ReyL
 
+api-share.mob.com
 chat-gpt-online-pc.com
 chatgpt.appleshop.top
 pay.chatgpt-oracle.com
