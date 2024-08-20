@@ -1,6 +1,8 @@
 #Updated 08-20-2024
 #Bad URLs by ReyL
 
+
+dt2.za.com
 pub-5c9db6a860804948b39478a2fa70c0f0.r2.dev
 email.overviews.shop
 upgraded-potential-octo-panc.pages.dev
