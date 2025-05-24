@@ -1,6 +1,9 @@
-#Updated 05-02-2025
+#Updated 05-24-2025
 #Bad URLs by ReyL
 
+minepi.apps-desktops-pc.com
+.apps-desktops-pc.com
+unlockpi.us
 metrobankcard.mymcc.gift
 cic.com.my
 e2025mupdate.us
