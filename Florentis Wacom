@@ -1,0 +1,152 @@
+🔥 Root Cause Identified
+
+You are using Florentis Wacom COM-based libraries, specifically:
+
+Florentis.InteropAXFiSigCOM.dll
+Florentis.InteropFiSigCOM.dll
+Florentis.InteropFiWizCOM.dll
+
+These are legacy COM wrappers around Wacom SigCapt.
+
+👉 These libraries are the ones pulling in:
+
+Microsoft.VisualStudio.Interop (v17)
+
+That dependency is embedded inside these Florentis DLLs, not in your main project.
+
+⚠️ Why This Is a Problem
+
+These Florentis interop DLLs are:
+
+❌ Old / legacy (COM-based)
+
+❌ Not cleanly redistributable
+
+❌ Sometimes compiled with Visual Studio SDK references
+
+❌ Known to cause runtime issues like yours
+
+👉 That’s why:
+
+App runs fine on dev PC (with Visual Studio)
+
+Breaks on workstation (no VS installed)
+
+🎯 Confirmed Trigger Flow
+Click Sign
+→ SigCapt.startWizard()
+→ Florentis COM DLL loads
+→ Tries to load Microsoft.VisualStudio.Interop
+→ ❌ Crash
+✅ SOLUTION OPTIONS (Ranked)
+🥇 BEST (Production-Grade Fix)
+❌ Remove ALL Florentis DLLs
+
+Replace with:
+
+Wacom STU SDK (wgssSTU.dll)
+
+✔ Native
+✔ No COM
+✔ No Interop issues
+✔ Works clean with WinForms VB.NET
+✔ Safe for ClickOnce + 50+ PCs
+
+🥈 ACCEPTABLE (If you must keep current code)
+Install dependency on all PCs
+
+Install:
+
+Visual Studio 2022 Build Tools
+
+✔ Fixes error immediately
+❌ Dirty solution (adds unnecessary dev components)
+
+🥉 TEMPORARY HACK
+
+Copy from dev PC:
+
+Microsoft.VisualStudio.Interop.dll
+
+into app folder
+
+✔ Fast
+❌ Fragile / version mismatch risk
+❌ Not recommended for production
+
+🧠 Expert Recommendation (Based on Your Environment)
+
+You mentioned:
+
+Clinic system
+
+Multiple workstations
+
+ClickOnce deployment
+
+👉 You should NOT use Florentis COM libraries anymore
+
+They are:
+
+Outdated
+
+Hard to maintain
+
+Deployment-unfriendly
+
+🚀 Clean Architecture (What You Should Move To)
+
+For STU-540, use:
+
+Wacom STU SDK
+
+Files:
+
+wgssSTU.dll
+wgssSTU.lib (optional)
+Benefits:
+
+No COM registration
+
+No Interop DLL hell
+
+Stable on Windows 10/11
+
+Works offline (important for clinic)
+
+🔧 Migration Plan (Simple)
+Step 1 — Remove these references:
+Florentis.InteropAXFiSigCOM.dll
+Florentis.InteropFiSigCOM.dll
+Florentis.InteropFiWizCOM.dll
+Step 2 — Replace signing logic
+
+Use STU SDK methods:
+
+Tablet connect
+
+Capture ink
+
+Export image
+
+Step 3 — Rebuild + test
+💡 If You Want Fast Progress
+
+I can give you:
+
+✔ Working VB.NET WinForms example for STU-540
+
+Button → Capture signature
+
+Save as PNG
+
+No COM
+
+No Interop errors
+
+📌 Final Diagnosis (Clear)
+Component	Status
+Your App	✅ OK
+Wacom Device	✅ OK
+Florentis DLLs	❌ Root cause
+Microsoft.VisualStudio.Interop	❌ Unwanted dependency
